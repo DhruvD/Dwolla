@@ -1,0 +1,23 @@
+{
+    "longName": "Dwolla_V3",
+    "capabilities": [
+        ""
+    ],
+    "uuid": "54092356-452e-449a-ade5-3f6d7f671f5d",
+    "versionLabel": "1.0",
+    "resources": {
+        "media": []
+    },
+    "companyName": "diddi2@illinois.edu",
+    "versionCode": 1,
+    "shortName": "Dwolla_V3",
+    "watchapp": {
+        "watchface": false
+    },
+    "appKeys": {
+        "backpay": 999,
+        "contact": 1,
+        "feedd": 2,
+        "balance": 0
+    }
+}
